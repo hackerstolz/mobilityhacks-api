@@ -18,6 +18,6 @@ We have four Challenges at mobility-hacks. For each of them there is a special c
 
 ## APIs provided by our API Partners
 
-* OTP (coming soon)
+* [Open Telematic Platform](https://github.com/hackerstolz/mobilityhacks-api/otp/)
 * [DB OpenData Platform](http://data.deutschebahn.com/)
 * [Lufthansa Open API] (https://developer.lufthansa.com/docs)
