@@ -21,3 +21,15 @@ We have four Challenges at mobility-hacks. For each of them there is a special c
 * [Open Telematic Platform](https://github.com/hackerstolz/mobilityhacks-api/otp/)
 * [DB OpenData Platform](http://data.deutschebahn.com/)
 * [Lufthansa Open API] (https://developer.lufthansa.com/docs)
+
+## API workshops at mobility hacks
+
+This is a prelimenary workshop schedule. The workshops will be held in the workshop room. The times and order are subject to change.
+
+| Time     | Workshop Topic    | Presenter |
+| -------- | ----------------- | --------- |
+| 11:30    | TBD               | TBD       |
+| 12:00    | TBD               | TBD       |
+| 12:30    | TBD               | TBD       |
+| 13:00    | TBD               | TBD       |
+| 13:30    | TBD               | TBD       |
