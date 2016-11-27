@@ -10,15 +10,15 @@ We use Devposts as our hackathon management system! Please also register there: 
 ## APIs & Datasets with a related challenges
 We have four Challenges at mobility-hacks. For each of them there is a special challenge award.
 
-* [BVG Challenge](https://github.com/hackerstolz/mobilityhacks-api/bvg/)
-* [ERGO Challenge](https://github.com/hackerstolz/mobilityhacks-api/ergo/)
-* [IBM Bluemix Challenge](https://github.com/hackerstolz/mobilityhacks-api/ibm-bluemix/)
-* [Europcar Challenge](https://github.com/hackerstolz/mobilityhacks-api/europcar/)
+* [BVG Challenge](https://github.com/hackerstolz/mobilityhacks-api/tree/master/bvg)
+* [ERGO Challenge](https://github.com/hackerstolz/mobilityhacks-api/tree/master/ergo/)
+* [IBM Bluemix Challenge](https://github.com/hackerstolz/mobilityhacks-api/tree/master/ibm-bluemix/)
+* [Europcar Challenge](https://github.com/hackerstolz/mobilityhacks-api/tree/master/europcar)
 
 
 ## APIs provided by our API Partners
 
-* [Open Telematic Platform](https://github.com/hackerstolz/mobilityhacks-api/otp/)
+* [Open Telematic Platform](https://github.com/hackerstolz/mobilityhacks-api/tree/master/otp/)
 * [DB OpenData Platform](http://data.deutschebahn.com/)
 * [Lufthansa Open API] (https://developer.lufthansa.com/docs)
 * [GraphQL as a service by Graphcool] (https://graph.cool/)
