@@ -7,5 +7,18 @@ For more information on the event please check out the event description at [our
 
 We use Devposts as our hackathon management system! Please also register there: [mobility{hacks} Devposts page](http://mobility-hacks.devpost.com/)
 
+* [BVG Challenge](https://github.com/hackerstolz/mobilityhacks-api/bvg/)
+* [ERGO Challenge](https://github.com/hackerstolz/mobilityhacks-api/ergo/)
+* [IBM Bluemix Challenge](https://github.com/hackerstolz/mobilityhacks-api/ibm-bluemix/)
+* [Europcar Challenge](https://github.com/hackerstolz/mobilityhacks-api/europcar/)
+
+
 ## APIs & Datasets with a related challenges
 We will announce challenges  soon. There will be a dedicated prize for this challenges, dedicated for the best solution of the problem described in the challenge.
+
+
+## APIs provided by our API Partners
+
+* OTP (coming soon)
+* [DB OpenData Platform](http://data.deutschebahn.com/)
+* [Lufthansa Open API] (https://developer.lufthansa.com/docs)
