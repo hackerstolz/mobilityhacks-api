@@ -29,8 +29,7 @@ This is a prelimenary workshop schedule. The workshops will be held in the works
 
 | Time     | Workshop Topic    | Presenter |
 | -------- | ----------------- | --------- |
-| 11:30    | TBD               | TBD       |
-| 12:00    | TBD               | TBD       |
-| 12:30    | TBD               | TBD       |
-| 13:00    | TBD               | TBD       |
-| 13:30    | TBD               | TBD       |
+| 11:00    | IBM               | TBD       |
+| 11:30    | OTP               | TBD       |
+| 12:00    | graph.cool GraphQL | TBD       |
+| 13:30    | Pitch Workshop    | TBD       |
