@@ -21,7 +21,7 @@ We have four Challenges at mobility-hacks. For each of them there is a special c
 * [Open Telematic Platform](https://github.com/hackerstolz/mobilityhacks-api/tree/master/otp/)
 * [DB OpenData Platform](http://data.deutschebahn.com/)
 * [Lufthansa Open API] (https://developer.lufthansa.com/docs)
-* [GraphQL as a service by Graphcool] (https://graph.cool/)
+* [GraphQL as a service by Graphcool](https://github.com/hackerstolz/mobilityhacks-api/tree/master/graphcool)
 
 ## API workshops at mobility hacks
 
@@ -31,5 +31,5 @@ This is a prelimenary workshop schedule. The workshops will be held in the works
 | -------- | ----------------- | --------- |
 | 11:00    | IBM               | TBD       |
 | 11:30    | OTP               | TBD       |
-| 12:00    | graph.cool GraphQL | TBD       |
+| 12:00    | Graphcool GraphQL | TBD       |
 | 13:30    | Pitch Workshop    | TBD       |
