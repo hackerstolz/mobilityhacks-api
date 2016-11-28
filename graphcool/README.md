@@ -20,7 +20,7 @@ The playground features auto-completion and a full documentation of your API ena
 
 Look out for two friendly developers in green t-shirts at the hackathon ready to help you.
 
-You can also [chat to our CTO](http://slack.graph.cool) who is sitting at his desk ready to help you.
+You can also [chat to our CTO](http://slack.graph.cool) who is sitting at his desk waiting to answer your questions.
 
 ## Get Started
 
