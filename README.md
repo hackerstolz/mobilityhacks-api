@@ -1,5 +1,5 @@
 # mobilityhacks-api
-This is the repository where we want to collect all challenges and APIs represented at the mobility{hacks} hackathon
+This is the repository where we collect all challenges and APIs represented at the mobility{hacks} hackathon
 
 # API & Challenges available at mobility{hacks}
 
