@@ -1,5 +1,9 @@
 # BVG challenge 
 
+<p align="center">
+   <img alt="BVG Logo" src="http://www.bvg.de/images/content/socialhub/weilwirdichlieben/motiv_weilwirdichlieben_800x450_teaser.jpg" />
+</p>
+
 With your help we're making transit cool again!
 
 We have lots of customers and even more data, but you are the ones with the great ideas. Let us create a digital customer journey that help people to buy tickets and join the biggest carbon dioxid saver community in Berlin.
