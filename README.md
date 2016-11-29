@@ -28,5 +28,5 @@ This is a prelimenary workshop schedule. The workshops will be held in the works
 | -------- | ------------------------| --------------|
 | 11:00    | IBM Bluemix and Watson  | IBM           |
 | 11:30    | open telematic platform | otp           |
-| 12:00    | GraphQL as a service    | graph.cool    |
+| 12:00    | graph.cool GraphQL | TBD       |
 | 13:30    | Pitch Workshop          | Roland Berger |
