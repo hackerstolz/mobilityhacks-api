@@ -26,7 +26,10 @@ You can also [chat to our CTO](http://slack.graph.cool) who is sitting at his de
 
 ## Get Started
 
-To get started with your backend, sign in [at Graphcool](http://graph.cool) and follow the getting started tour.
+To get started with your backend, sign in [at Graphcool](http://graph.cool) and follow the getting started tour. Watch how to setup your backend in 5 minutes:
+
+[![](video-screenshot.png)](https://www.youtube.com/watch?v=wSkZFfuAToM)
+
 We have a few examples to kickstart your application:
 
 * **React**
