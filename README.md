@@ -1,8 +1,5 @@
-# mobilityhacks-api
-This is the repository where we collect all challenges and APIs represented at the mobility{hacks} hackathon
-
 # API & Challenges available at mobility{hacks}
-
+This is the repository where we collect all challenges and APIs represented at the mobility{hacks} hackathon.
 For more information on the event please check out the event description at [our event page](http://www.mobility-hacks.de)
 
 We use Devposts as our hackathon management system! Please also register there: [mobility{hacks} Devposts page](http://mobility-hacks.devpost.com/)
@@ -27,9 +24,9 @@ We have four Challenges at mobility-hacks. For each of them there is a special c
 
 This is a prelimenary workshop schedule. The workshops will be held in the workshop room. The times and order are subject to change.
 
-| Time     | Workshop Topic    | Presenter |
-| -------- | ----------------- | --------- |
-| 11:00    | IBM               | TBD       |
-| 11:30    | OTP               | TBD       |
-| 12:00    | graph.cool GraphQL | TBD       |
-| 13:30    | Pitch Workshop    | TBD       |
+| Time     | Workshop Topic          | Presenter     |
+| -------- | ------------------------| --------------|
+| 11:00    | IBM Bluemix and Watson  | IBM           |
+| 11:30    | open telematic platform | otp           |
+| 12:00    | GraphQL as a service    | graph.cool    |
+| 13:30    | Pitch Workshop          | Roland Berger |
