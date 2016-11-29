@@ -19,7 +19,7 @@ We have four Challenges at mobility-hacks. For each of them there is a special c
 * [Lufthansa Open API] (https://developer.lufthansa.com/docs)
 * [GraphQL as a service by Graphcool](https://github.com/hackerstolz/mobilityhacks-api/tree/master/graphcool)
 
-## API workshops at mobility hacks
+## Workshops at mobility hacks
 
 This is a prelimenary workshop schedule. The workshops will be held in the workshop room. The times and order are subject to change.
 
