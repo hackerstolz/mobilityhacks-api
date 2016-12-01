@@ -23,6 +23,9 @@ Use the provided data sources (in combination with other data sources) to create
 
 Please think big and don't give up ideas that do not fit exactly into these categories. We're looking foward to see what you come up with sothat we can increase customer satisfaction and our brand image.
 
+## DBOpenData Special
+
+There is a special prize for the best combination of DB open data with the Data from the BVG.
 
 ## Dataset description
 
