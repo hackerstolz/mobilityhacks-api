@@ -1,7 +1,7 @@
 # How Mobility can promote environmental footprint and make our customers happier!
 
 <p align="center">
-    <img alt="Europcar Logo" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Europcar-Logo.svg" width="450px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Europcar-Logo.svg" width="450px" />
 </p>
 
 ## Challenge Description
