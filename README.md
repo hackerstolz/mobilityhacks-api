@@ -14,6 +14,7 @@ We have four Challenges at mobility-hacks. For each of them there is a special c
 
 ## APIs provided by our API Partners
 
+* [iBeacons and Eddystone Beacons from Minodes](https://github.com/hackerstolz/mobilityhacks-api/tree/master/minodes/)
 * [Open Telematic Platform](https://github.com/hackerstolz/mobilityhacks-api/tree/master/otp/)
 * [DB OpenData Platform](http://data.deutschebahn.com/)
 * [Lufthansa Open API] (https://developer.lufthansa.com/docs) You will have a separate plan where you will get the live fares and availabilities of all EUROWINGS flights.
