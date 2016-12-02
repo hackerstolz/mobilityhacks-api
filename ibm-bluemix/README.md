@@ -19,4 +19,4 @@ Watson is a cognitive technology that can think like a human. With Watson, you c
 More information on: http://www.ibm.com/watson/
 
 ## Challenge goal
-Create an innovative mobility application that uses various Bluemix APIs in a creative way.
+Use Watson Cognitive Services to build a more user centric system to support customers, mobility providers and drivers.
